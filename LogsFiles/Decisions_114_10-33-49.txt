@@ -1,0 +1,4 @@
+10:34:23,114,Meer begeleiding,1,niet
+10:34:34,114,Meer begeleiding,1b,niet
+10:34:45,114,Meer begeleiding,2b,niet
+10:34:58,114,Meer begeleiding,3b,niet

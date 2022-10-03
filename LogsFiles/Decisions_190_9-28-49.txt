@@ -1,0 +1,4 @@
+09:29:56,190,Pinnen supermarkt,1,niet
+09:30:14,190,Pinnen supermarkt,1b,niet
+09:30:30,190,Pinnen supermarkt,2b,wel
+09:30:45,190,Pinnen supermarkt,3a,wel

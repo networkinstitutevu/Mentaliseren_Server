@@ -1,0 +1,56 @@
+09:57:28,146,Koffie drinken,1,wel
+09:57:34,146,Koffie drinken,2a,niet
+09:58:09,146,Aardappels schillen,1,wel
+09:58:14,146,Aardappels schillen,2a,niet
+09:58:44,146,OV-kaart,1,niet
+09:58:56,146,OV-kaart,2b,niet
+09:59:30,146,Familie-uitje,1,niet
+09:59:42,146,Familie-uitje,2b,niet
+10:00:03,146,Groenten snijden,1,niet
+10:00:13,146,Groenten snijden,2b,niet
+10:00:42,146,Zingen,1,niet
+10:00:49,146,Zingen,2b,niet
+10:01:17,146,Botsing Roy,1,niet
+10:01:32,146,Botsing Roy,2b,niet
+10:02:13,146,Fiets gestolen,1,niet
+10:02:23,146,Fiets gestolen,2b,niet
+10:02:56,146,Badkamer opruimen,1,niet
+10:03:05,146,Badkamer opruimen,2b,niet
+10:03:37,146,Moeilijke begeleider,1,niet
+10:03:52,146,Moeilijke begeleider,2b,niet
+10:04:24,146,Nachtmerrie inbreker,1,niet
+10:04:30,146,Nachtmerrie inbreker,2b,niet
+10:04:58,146,Doktersafspraak verzet,1,niet
+10:05:09,146,Doktersafspraak verzet,2b,niet
+10:05:30,146,TV kijken,1,niet
+10:05:43,146,TV kijken,2b,niet
+10:06:12,146,Oma overleden,1,niet
+10:06:25,146,Oma overleden,2b,niet
+10:06:52,146,Boos op medebewoonster,1,niet
+10:07:03,146,Boos op medebewoonster,1b,niet
+10:07:15,146,Boos op medebewoonster,2b,niet
+10:07:29,146,Boos op medebewoonster,3b,niet
+10:08:10,146,Ruzie tussen bewoners,1,niet
+10:08:19,146,Ruzie tussen bewoners,1b,niet
+10:08:28,146,Ruzie tussen bewoners,2b,niet
+10:08:37,146,Ruzie tussen bewoners,3b,niet
+10:09:06,146,Elisa overleden,1,niet
+10:09:19,146,Elisa overleden,1b,niet
+10:09:38,146,Elisa overleden,2b,niet
+10:10:00,146,Elisa overleden,3b,niet
+10:10:27,146,Ziek kat,1,niet
+10:10:38,146,Ziek kat,1b,niet
+10:10:51,146,Ziek kat,2b,niet
+10:11:03,146,Ziek kat,3b,niet
+10:11:46,146,Pinnen supermarkt,1,niet
+10:11:59,146,Pinnen supermarkt,1b,niet
+10:12:22,146,Pinnen supermarkt,2b,niet
+10:12:31,146,Pinnen supermarkt,3b,niet
+10:12:57,146,Meer begeleiding,1,niet
+10:13:08,146,Meer begeleiding,1b,niet
+10:13:19,146,Meer begeleiding,2b,niet
+10:13:28,146,Meer begeleiding,3b,niet
+10:14:02,146,Verhuizen,1,niet
+10:14:11,146,Verhuizen,1b,niet
+10:14:22,146,Verhuizen,2b,niet
+10:14:31,146,Verhuizen,3b,niet

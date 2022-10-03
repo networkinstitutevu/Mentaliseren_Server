@@ -1,0 +1,2 @@
+10:31:20,84,Moeilijke begeleider,1,niet
+10:31:34,84,Moeilijke begeleider,2b,wel

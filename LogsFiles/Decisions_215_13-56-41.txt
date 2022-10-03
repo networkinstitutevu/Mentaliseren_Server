@@ -1,0 +1,9 @@
+13:57:43,215,Pinnen supermarkt,1,niet
+13:57:57,215,Pinnen supermarkt,1b,niet
+13:58:08,215,Pinnen supermarkt,2b,wel
+13:58:18,215,Pinnen supermarkt,3a,wel
+13:58:48,215,Ziek kat,1,niet
+13:58:59,215,Ziek kat,1b,niet
+13:59:13,215,Ziek kat,2b,niet
+13:59:25,215,Ziek kat,3b,niet
+13:59:54,215,Nachtmerrie inbreker,1,wel

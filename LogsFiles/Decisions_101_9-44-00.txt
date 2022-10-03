@@ -1,0 +1,4 @@
+09:45:47,101,Koffie drinken,1,wel
+09:46:04,101,Koffie drinken,2a,wel
+09:46:37,101,Aardappels schillen,1,wel
+09:46:47,101,Aardappels schillen,2a,wel

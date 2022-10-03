@@ -1,0 +1,40 @@
+10:16:13,147,Koffie drinken,1,wel
+10:16:19,147,Koffie drinken,2a,wel
+10:16:54,147,Aardappels schillen,1,wel
+10:17:01,147,Aardappels schillen,2a,wel
+10:17:29,147,OV-kaart,1,wel
+10:17:38,147,OV-kaart,2a,wel
+10:18:02,147,Familie-uitje,1,wel
+10:18:28,147,Familie-uitje,2a,wel
+10:18:59,147,Groenten snijden,1,wel
+10:19:05,147,Groenten snijden,2a,wel
+10:19:35,147,Zingen,1,wel
+10:19:42,147,Zingen,2a,wel
+10:20:22,147,Botsing Roy,1,wel
+10:20:31,147,Botsing Roy,2a,wel
+10:21:13,147,Fiets gestolen,1,wel
+10:21:24,147,Fiets gestolen,2a,wel
+10:21:55,147,Badkamer opruimen,1,wel
+10:22:03,147,Badkamer opruimen,2a,wel
+10:22:35,147,Moeilijke begeleider,1,wel
+10:22:46,147,Moeilijke begeleider,2a,wel
+10:23:11,147,Nachtmerrie inbreker,1,wel
+10:23:27,147,Nachtmerrie inbreker,2a,wel
+10:23:54,147,Doktersafspraak verzet,1,wel
+10:24:01,147,Doktersafspraak verzet,2a,wel
+10:24:20,147,TV kijken,1,wel
+10:24:25,147,TV kijken,2a,wel
+10:24:52,147,Oma overleden,1,wel
+10:25:01,147,Oma overleden,2a,wel
+10:25:26,147,Boos op medebewoonster,1,wel
+10:25:39,147,Boos op medebewoonster,1a,wel
+10:25:46,147,Boos op medebewoonster,2a,wel
+10:25:59,147,Boos op medebewoonster,3a,wel
+10:26:30,147,Ruzie tussen bewoners,1,wel
+10:26:41,147,Ruzie tussen bewoners,1a,wel
+10:26:54,147,Ruzie tussen bewoners,2a,wel
+10:27:01,147,Ruzie tussen bewoners,3a,wel
+10:27:34,147,Elisa overleden,1,wel
+10:27:52,147,Elisa overleden,1a,wel
+10:28:15,147,Elisa overleden,2a,wel
+10:28:40,147,Elisa overleden,3a,wel

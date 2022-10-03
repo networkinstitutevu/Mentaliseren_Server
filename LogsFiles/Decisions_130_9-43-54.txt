@@ -1,0 +1,4 @@
+09:44:29,130,Verhuizen,1,niet
+09:44:39,130,Verhuizen,1b,niet
+09:45:08,130,Verhuizen,2b,niet
+09:45:20,130,Verhuizen,3b,niet
