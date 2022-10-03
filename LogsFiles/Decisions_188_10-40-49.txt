@@ -1,2 +1,0 @@
-10:42:11,188,Doktersafspraak verzet,1,wel
-10:42:21,188,Doktersafspraak verzet,2a,wel

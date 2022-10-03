@@ -1,2 +1,0 @@
-13:25:05,169,Fiets gestolen,1,wel
-13:25:17,169,Fiets gestolen,2a,wel

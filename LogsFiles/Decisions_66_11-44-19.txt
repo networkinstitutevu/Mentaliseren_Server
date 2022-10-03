@@ -1,6 +1,0 @@
-11:46:06,66,Koffie drinken,1,wel
-11:46:16,66,Koffie drinken,2a,wel
-11:46:47,66,Aardappels schillen,1,niet
-11:47:01,66,Aardappels schillen,2b,wel
-11:47:33,66,OV-kaart,1,wel
-11:47:47,66,OV-kaart,2a,wel
